@@ -16,8 +16,8 @@ CODE-STANDARDS.md is a way of combatting the lava layers problem by adding expli
 3. At the top of CODE-STANDARDS.md, include the last day the standards were updated and a link to this project, as follows:
 
 ```
-Last updated: 2023/06/22
-Code standards based on https://github.com/christopherliu/code-standards
+* Last updated: 2023/06/22
+* Code standards, based on https://github.com/christopherliu/code-standards
 ```
 
 # Whenever you create a new source file
