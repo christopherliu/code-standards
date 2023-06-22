@@ -1,5 +1,5 @@
-Last updated: 2023/06/22
-Code standards based on https://github.com/christopherliu/code-standards
+* Last updated: 2023/06/22
+* Code standards, based on https://github.com/christopherliu/code-standards
 
 # Style standards
 * JSSTYLE: Use this style guide (https://google.github.io/styleguide/jsguide.html), because we don't want to reinvent the wheel.
