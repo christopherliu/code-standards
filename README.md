@@ -8,7 +8,7 @@ These layers are a frequent source of problems that are common among old codebas
 1. We write new code by copying old code, and if we happen to copy code written with the old standard, we unwittingly propagate that old standard.
 2. If we need to fix a bug across the code base, we may need to fix it in 2 (or more) ways, depending on the number of standards currently in play.
 
-CODE-STANDARDS.md is a way of combatting the lava layers problem by adding explicit metadata that identifies where these layers are, and by giving developers an escape hatch when deadlines prevent them from 100% updating a piece of legacy code to the current best practice.
+CODE-STANDARDS.md is a way of combating the lava layers problem by adding explicit metadata that identifies where these layers are, and by giving developers an escape hatch when deadlines prevent them from 100% updating a piece of legacy code to the current best practice.
 
 # How to use CODE-STANDARDS.md
 1. Include a CODE-STANDARDS.md at the root of your repository or project.
